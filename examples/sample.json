@@ -1,0 +1,18 @@
+{
+  "title": "Sorting algorithms",
+  "version": 1,
+  "tags": [
+    "algorithms",
+    "data structures",
+    "python"
+  ],
+  "scores": [
+    -1,
+    2,
+    10
+  ],
+  "author": {
+    "name": "Student",
+    "active": true
+  }
+}
